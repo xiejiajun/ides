@@ -13,6 +13,8 @@ import tech.sqlclub.common.log.Logging
 import scala.collection.mutable
 
 /**
+ * TODO 真正使用时是在tech.ides.repl.IdesILoop#initializationCommands()中通过repl字符串方式初始化的
+ *  @see tech.ides.repl.IdesILoop
   * 脚本执行监听器类
   * Created by songgr on 2020/10/28.
   */
